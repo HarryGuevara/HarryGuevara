@@ -9,6 +9,7 @@
 Soy **Harry Guevara**, Biólogo (UDistrital), Magíster en Educación (Externado de Colombia) y Data Scientist titulado en el Bootcamp **Soy Henry**. Combino mi experiencia en aula con competencias en análisis de datos, machine learning y visualización para transformar información en decisiones estratégicas.
 
 * 📍 **Ubicación:** Bogotá, Colombia
+* 
 * 🎓 **Formación:**
 
   * Licenciado en Biología, Universidad Distrital Francisco José de Caldas
@@ -26,10 +27,10 @@ Soy **Harry Guevara**, Biólogo (UDistrital), Magíster en Educación (Externado
 * **Mentoría comunitaria:** Facilitación de grupos de estudio y dinámicas colaborativas en Slack.
 * **Soft Skills:** Talleres de comunicación, gestión ágil y presentación de resultados.
 
-### Líder de Proyecto Final – "Fungi as Functional Analytics"
+### Líder de Proyecto Final – "HYPE Analytics – Proyecto Final de Análisis de Reseñas Digitales as Functional Analytics"
 
-* **Stack integrado:** Python, Pandas, Airflow, Google BigQuery y Looker Studio.
-* **Pipelines automatizadas:** ETL escalable para análisis de metadatos de hongos.
+* **Stack integrado:** Python, Pandas, Airflow, Google BigQuery, Google Cloud y Looker Studio.
+* **Pipelines automatizadas:** ETL escalable para análisis de metadatos.
 * **Dashboards interactivos:** Visualizaciones técnicas para insights en tiempo real.
 
 ---
@@ -50,9 +51,8 @@ Soy **Harry Guevara**, Biólogo (UDistrital), Magíster en Educación (Externado
 
 ## 📂 Featured Projects
 
-* **[Fungi-Analytics](https://github.com/harryguevara/fungi-analytics)**: Pipeline ETL con Airflow + dashboards en Looker Studio para análisis funcional de hongos.
-* **[Yelp Sentiment Analysis](https://github.com/harryguevara/yelp-sentiment)**: Clasificación de reseñas con modelos de regresión logística y Naive Bayes.
-* **[Location Clustering](https://github.com/harryguevara/location-clustering)**: Segmentación geoespacial de negocios usando clustering jerárquico.
+* **[HYPE Analytics – Proyecto Final de Análisis de Reseñas Digitales]([https://github.com/harryguevara/fungi-analytics](https://github.com/yaninaspina1/YELP-GOOGLE-MAPS---REVIEWS-AND-RECOMMENDATIONS))**: Pipeline ETL con Airflow + dashboards en Looker Studio para análisis funcional de reseñas.
+* **[Sistema de Recomendación de Películas]([https://github.com/harryguevara/yelp-sentiment](https://github.com/HarryGuevara/my_recommendation_project))**:proyecto de un sistema de recomendación de películas basado en contenido, desarrollado utilizando FastAPI y Pandas.
 
 ---
 
@@ -70,7 +70,7 @@ Soy **Harry Guevara**, Biólogo (UDistrital), Magíster en Educación (Externado
 
 * **LinkedIn:** [linkedin.com/in/harry-guevara](https://linkedin.com/in/harry-guevara)
 * **GitHub:** [github.com/harryguevara](https://github.com/harryguevara)
-* **Email:** `tu.email@ejemplo.com`
+* **Email:** `harryguevarah@gmail.com`
 
 ---
 
